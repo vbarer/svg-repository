@@ -5,7 +5,7 @@ const path = './src/app/components/svg-repo/';
 const outputFile = './svg-preview/svg-preview.html';
 
 const svgDefFiles = [
-  {fileName: 'svg-repo.component.html', fileTitle: 'SVG Icons'},
+  {fileName: 'svg-repo.component.html', fileTitle: 'SVG Images'},
 ];
 
 const fileStyles = new Promise((resolve, reject) => {

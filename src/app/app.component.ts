@@ -7,6 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  public names: string[] = ['folder', 'outlook', 'left-scroll-button', 'user', 'computer'];
+  public names: string[] = ['folder', 'phone', 'left-arrow', 'user', 'computer'];
 
 }
