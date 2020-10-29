@@ -16,7 +16,7 @@ export class SvgIconComponent implements OnInit {
       // do some logic
       this._name = value;
     } else {
-      this._name = 'app-default';
+      this._name = 'close';
     }
   }
 
